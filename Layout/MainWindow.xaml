@@ -6,26 +6,17 @@
         xmlns:local="clr-namespace:Layout"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        <Grid.RowDefinitions>
-            <RowDefinition Height="0.3*"/>
-            <RowDefinition Height="0.3*"/>
-            <RowDefinition Height="0.3*"/>
-        </Grid.RowDefinitions>
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="0.3*"/>
-            <ColumnDefinition Width="0.3*"/>
-            <ColumnDefinition Width="0.3*"/>
-        </Grid.ColumnDefinitions>
-        <Rectangle Fill="Red" Grid.Row="0" Grid.Column="0"/>
-        <Rectangle Fill="Orange" Grid.Row="1" Grid.Column="0"/>
-        <Rectangle Fill="Yellow" Grid.Row="2" Grid.Column="0"/>
-        <Rectangle Fill="Blue" Grid.Row="0" Grid.Column="1"/>
-        <Rectangle Fill="Green" Grid.Row="0" Grid.Column="2"/>
-        <Rectangle Fill="DarkBlue" Grid.Row="1" Grid.Column="1"/>
-        <Rectangle Fill="Violet" Grid.Row="1" Grid.Column="2"/>
-        <Rectangle Fill="Gold" Grid.Row="2" Grid.Column="1"/>
-        <Rectangle Fill="Silver" Grid.Row="3" Grid.Column="2"/>
-    </Grid>
+
+    <StackPanel>
+        <Rectangle Fill="Red" Height="50"/>
+        <Rectangle Fill="Orange" Height="50"/>
+        <Rectangle Fill="Yellow" Height="50"/>
+        <Rectangle Fill="Blue" Height="50"/>
+        <Rectangle Fill="Green" Height="50"/>
+        <Rectangle Fill="DarkBlue" Height="50"/>
+        <Rectangle Fill="Violet" Height="50"/>
+        <Rectangle Fill="Gold" Height="50"/>
+        <Rectangle Fill="Silver" Height="50"/>
+    </StackPanel>
     
 </Window>
