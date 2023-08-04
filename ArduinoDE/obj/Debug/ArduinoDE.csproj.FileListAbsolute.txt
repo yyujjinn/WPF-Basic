@@ -1,0 +1,15 @@
+C:\Users\yjyu\source\repos\ArduinoDE\ArduinoDE\obj\Debug\ArduinoDE.csproj.AssemblyReference.cache
+C:\Users\yjyu\source\repos\ArduinoDE\ArduinoDE\obj\Debug\App.g.cs
+C:\Users\yjyu\source\repos\ArduinoDE\ArduinoDE\obj\Debug\ArduinoDE_MarkupCompile.cache
+C:\Users\yjyu\source\repos\ArduinoDE\ArduinoDE\bin\Debug\ArduinoDE.exe.config
+C:\Users\yjyu\source\repos\ArduinoDE\ArduinoDE\bin\Debug\ArduinoDE.exe
+C:\Users\yjyu\source\repos\ArduinoDE\ArduinoDE\bin\Debug\ArduinoDE.pdb
+C:\Users\yjyu\source\repos\ArduinoDE\ArduinoDE\obj\Debug\MainWindow.g.cs
+C:\Users\yjyu\source\repos\ArduinoDE\ArduinoDE\obj\Debug\ArduinoDE_MarkupCompile.lref
+C:\Users\yjyu\source\repos\ArduinoDE\ArduinoDE\obj\Debug\MainWindow.baml
+C:\Users\yjyu\source\repos\ArduinoDE\ArduinoDE\obj\Debug\ArduinoDE.g.resources
+C:\Users\yjyu\source\repos\ArduinoDE\ArduinoDE\obj\Debug\ArduinoDE.Properties.Resources.resources
+C:\Users\yjyu\source\repos\ArduinoDE\ArduinoDE\obj\Debug\ArduinoDE.csproj.GenerateResource.cache
+C:\Users\yjyu\source\repos\ArduinoDE\ArduinoDE\obj\Debug\ArduinoDE.csproj.CoreCompileInputs.cache
+C:\Users\yjyu\source\repos\ArduinoDE\ArduinoDE\obj\Debug\ArduinoDE.exe
+C:\Users\yjyu\source\repos\ArduinoDE\ArduinoDE\obj\Debug\ArduinoDE.pdb
