@@ -7,16 +7,19 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
 
-    <StackPanel>
-        <Rectangle Fill="Red" Height="50"/>
-        <Rectangle Fill="Orange" Height="50"/>
-        <Rectangle Fill="Yellow" Height="50"/>
-        <Rectangle Fill="Blue" Height="50"/>
-        <Rectangle Fill="Green" Height="50"/>
-        <Rectangle Fill="DarkBlue" Height="50"/>
-        <Rectangle Fill="Violet" Height="50"/>
-        <Rectangle Fill="Gold" Height="50"/>
-        <Rectangle Fill="Silver" Height="50"/>
-    </StackPanel>
-    
+    <WrapPanel>
+        <Rectangle Fill="Red" Width="80" Height="80"/>
+        <Rectangle Fill="Orange" Width="80" Height="80"/>
+        <Rectangle Fill="Yellow" Width="80" Height="80"/>
+        <Rectangle Fill="Blue" Width="80" Height="80"/>
+        <Rectangle Fill="Green" Width="80" Height="80"/>
+        <Rectangle Fill="DarkBlue" Width="80" Height="80"/>
+        <Rectangle Fill="Violet" Width="80" Height="80"/>
+        <Rectangle Fill="Gold" Width="80" Height="80"/>
+        <Rectangle Fill="Silver" Width="80" Height="80"/>
+        <Rectangle Fill="Violet" Width="80" Height="80"/>
+        <Rectangle Fill="Gold" Width="80" Height="80"/>
+        <Rectangle Fill="Silver" Width="80" Height="80"/>
+    </WrapPanel>
+
 </Window>
