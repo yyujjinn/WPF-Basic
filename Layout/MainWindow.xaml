@@ -7,19 +7,10 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
 
-    <WrapPanel>
-        <Rectangle Fill="Red" Width="80" Height="80"/>
-        <Rectangle Fill="Orange" Width="80" Height="80"/>
-        <Rectangle Fill="Yellow" Width="80" Height="80"/>
-        <Rectangle Fill="Blue" Width="80" Height="80"/>
-        <Rectangle Fill="Green" Width="80" Height="80"/>
-        <Rectangle Fill="DarkBlue" Width="80" Height="80"/>
-        <Rectangle Fill="Violet" Width="80" Height="80"/>
-        <Rectangle Fill="Gold" Width="80" Height="80"/>
-        <Rectangle Fill="Silver" Width="80" Height="80"/>
-        <Rectangle Fill="Violet" Width="80" Height="80"/>
-        <Rectangle Fill="Gold" Width="80" Height="80"/>
-        <Rectangle Fill="Silver" Width="80" Height="80"/>
-    </WrapPanel>
+    <Canvas>
+        <Rectangle Fill ="Red" Width="80" Height="80" Canvas.Left="100" Canvas.Top="100"/>
+        <Rectangle Fill ="Orange" Width="80" Height="80" Canvas.Left="665" Canvas.Top="181"/>
+        <Rectangle Fill ="Yellow" Width="80" Height="80" Canvas.Left="479" Canvas.Top="35"/>
+    </Canvas>
 
 </Window>
