@@ -7,10 +7,11 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
 
-    <Canvas>
-        <Rectangle Fill ="Red" Width="80" Height="80" Canvas.Left="100" Canvas.Top="100"/>
-        <Rectangle Fill ="Orange" Width="80" Height="80" Canvas.Left="665" Canvas.Top="181"/>
-        <Rectangle Fill ="Yellow" Width="80" Height="80" Canvas.Left="479" Canvas.Top="35"/>
-    </Canvas>
-
+    <DockPanel>
+        <Rectangle Fill="Red" Height="80" DockPanel.Dock="Top"/>
+        <Rectangle Fill="Orange" Width="80" DockPanel.Dock="Left"/>
+        <Rectangle Fill="Yellow" Width="80" DockPanel.Dock="Right"/>
+        <Rectangle Fill="BLue" Height="80" DockPanel.Dock="Bottom"/>
+        <Rectangle Fill="AliceBlue"/>
+    </DockPanel>
 </Window>
